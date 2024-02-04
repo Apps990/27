@@ -1,0 +1,63 @@
+header { padding: 60px;
+    text-align: center;
+    background: orange;
+    color: white;
+    font-size: 30px;
+    margin-top: -38px;
+       }
+  div.scrollmenu {
+      background-color: orangered;
+      
+      margin-top: -38px;
+      
+      
+    }
+      div.scrollmenu a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px;
+      text-decoration: none;
+      
+       }
+      div.scrollmenu a:hover {
+      background-color: #777;
+        }
+      
+              h5
+        {
+          font-weight: bold;}
+       h2
+       {color: orangered;
+        font-weight: bold;}
+        h4
+    
+        {color: orangered;
+         font-weight: bold;}
+          .column2
+           {
+            float: left;
+            width: 20%;
+            background-color: #FAC898;
+            height: 867px;
+            margin: 1em;
+            
+            padding-left: 20px;
+            padding-right: 20PX;
+            margin-top: -20px;
+            
+          }
+          .column3 {
+            content: "";
+            width: 80%;
+            margin: 1em;}
+           
+            div.figure 
+            {float: right;}
+            div.figure1
+        {float: left;}
+  
+          footer {background-color: orange;
+             padding: 30px;
+             font-weight: bold;
+             text-align: center;}
